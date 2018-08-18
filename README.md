@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/rufine.svg)](https://www.npmjs.com/package/rufine)
+[![NPM](https://nodei.co/npm/rufine.png)](https://npmjs.org/package/rufine)
 
 ```
 > npm i -g rufine
